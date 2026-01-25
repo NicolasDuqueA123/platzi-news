@@ -10,5 +10,4 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-    linea para hacer uso de precommit y que valide una linea mayor a 88 caracteres que es el limente para usar en python y de como resultado un err
     main()
