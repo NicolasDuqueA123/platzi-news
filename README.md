@@ -31,6 +31,10 @@ La aplicación integra tres APIs principales:
 ## Uso
 
 ### 1. Buscar Noticias
+
+```bash
+.\.venv\Scripts\Activate.ps1
+```
 ```bash
 platzi-news search "query" --source [guardian|newsapi]
 ```

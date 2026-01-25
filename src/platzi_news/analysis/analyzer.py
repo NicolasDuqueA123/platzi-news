@@ -72,7 +72,7 @@ class OpenAIAnalyzer:
                         "parts": [
                             {
                                 "text": (
-                                    "You are a helpful assistant analyzing news articles.\n\n"
+                                    "You are an assistant analyzing news articles.\n\n"
                                     f"{prompt}"
                                 )
                             }
