@@ -22,7 +22,7 @@ print(f"Son iguales? {suma_con_sum() == suma_con_for()}")
 repeticiones = 10
 
 tiempo_sum = timeit.timeit(suma_con_sum, number=repeticiones)
-timepo_for = timeit.timeit(suma_con_for, number=repeticiones)
+tiempo_for = timeit.timeit(suma_con_for, number=repeticiones)
 
 print(f"Tiempo para sum {tiempo_sum:.6f}")
-print(f"Tiempo para for {timepo_for:.6f}")
+print(f"Tiempo para for {tiempo_for:.6f}")
